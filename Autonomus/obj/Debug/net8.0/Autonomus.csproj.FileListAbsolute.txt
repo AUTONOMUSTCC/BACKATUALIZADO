@@ -1,0 +1,880 @@
+C:\Users\emyna\source\repos\Autonomus\Autonomus\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\emyna\source\repos\Autonomus\Autonomus\bin\Debug\net8.0\appsettings.json
+C:\Users\emyna\source\repos\Autonomus\Autonomus\bin\Debug\net8.0\Autonomus.exe
+C:\Users\emyna\source\repos\Autonomus\Autonomus\bin\Debug\net8.0\Autonomus.deps.json
+C:\Users\emyna\source\repos\Autonomus\Autonomus\bin\Debug\net8.0\Autonomus.runtimeconfig.json
+C:\Users\emyna\source\repos\Autonomus\Autonomus\bin\Debug\net8.0\Autonomus.dll
+C:\Users\emyna\source\repos\Autonomus\Autonomus\bin\Debug\net8.0\Autonomus.pdb
+C:\Users\emyna\source\repos\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\emyna\source\repos\Autonomus\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\emyna\source\repos\Autonomus\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\emyna\source\repos\Autonomus\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.csproj.AssemblyReference.cache
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.AssemblyInfoInputs.cache
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.AssemblyInfo.cs
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.csproj.CoreCompileInputs.cache
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.Autonomus.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.build.Autonomus.props
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Autonomus.props
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Autonomus.props
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\scopedcss\bundle\Autonomus.styles.css
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.csproj.Up2Date
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.dll
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\refint\Autonomus.dll
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.pdb
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.genruntimeconfig.cache
+C:\Users\emyna\source\repos\Autonomus\Autonomus\obj\Debug\net8.0\ref\Autonomus.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.csproj.AssemblyReference.cache
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.AssemblyInfoInputs.cache
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.AssemblyInfo.cs
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.csproj.CoreCompileInputs.cache
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.sourcelink.json
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\refint\Autonomus.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.pdb
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\appsettings.json
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Autonomus.exe
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Autonomus.deps.json
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Autonomus.runtimeconfig.json
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Autonomus.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Autonomus.pdb
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Humanizer.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.Autonomus.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.build.Autonomus.props
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Autonomus.props
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Autonomus.props
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\scopedcss\bundle\Autonomus.styles.css
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.csproj.Up2Date
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\Autonomus.genruntimeconfig.cache
+C:\Users\emyna\OneDrive\Documentos\ESCOLA\Autonomus API teste\Autonomus\Autonomus\obj\Debug\net8.0\ref\Autonomus.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\appsettings.Development.json
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\appsettings.json
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Autonomus.staticwebassets.endpoints.json
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Autonomus.exe
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Autonomus.deps.json
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Autonomus.runtimeconfig.json
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Autonomus.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Autonomus.pdb
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Azure.Core.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Azure.Identity.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Humanizer.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.ClientModel.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.CodeDom.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Memory.Data.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Text.Json.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.csproj.AssemblyReference.cache
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.AssemblyInfoInputs.cache
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.AssemblyInfo.cs
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.csproj.CoreCompileInputs.cache
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.MvcApplicationPartsAssemblyInfo.cs
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.MvcApplicationPartsAssemblyInfo.cache
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\scopedcss\bundle\Autonomus.styles.css
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\staticwebassets.build.json
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\staticwebassets.development.json
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.Autonomus.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.Autonomus.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.build.Autonomus.props
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Autonomus.props
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Autonomus.props
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\staticwebassets.pack.json
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.csproj.Up2Date
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.dll
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\refint\Autonomus.dll
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.pdb
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.genruntimeconfig.cache
+D:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\ref\Autonomus.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\appsettings.Development.json
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\appsettings.json
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Autonomus.staticwebassets.endpoints.json
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Autonomus.exe
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Autonomus.deps.json
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Autonomus.runtimeconfig.json
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Autonomus.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Autonomus.pdb
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Azure.Core.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Azure.Identity.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Humanizer.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.ClientModel.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.CodeDom.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Memory.Data.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Text.Json.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\TUDO DA API SOCORRO\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.csproj.AssemblyReference.cache
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.GeneratedMSBuildEditorConfig.editorconfig
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.AssemblyInfoInputs.cache
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.AssemblyInfo.cs
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.csproj.CoreCompileInputs.cache
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.MvcApplicationPartsAssemblyInfo.cs
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.MvcApplicationPartsAssemblyInfo.cache
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\scopedcss\bundle\Autonomus.styles.css
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\staticwebassets.build.json
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\staticwebassets.development.json
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.csproj.Up2Date
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.dll
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\refint\Autonomus.dll
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.pdb
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\Autonomus.genruntimeconfig.cache
+E:\TUDO DA API SOCORRO\Autonomus\obj\Debug\net8.0\ref\Autonomus.dll
+D:\api\Autonomus\obj\Debug\net8.0\Autonomus.csproj.AssemblyReference.cache
+D:\api\Autonomus\obj\Debug\net8.0\Autonomus.GeneratedMSBuildEditorConfig.editorconfig
+D:\api\Autonomus\obj\Debug\net8.0\Autonomus.AssemblyInfoInputs.cache
+D:\api\Autonomus\obj\Debug\net8.0\Autonomus.AssemblyInfo.cs
+D:\api\Autonomus\obj\Debug\net8.0\Autonomus.csproj.CoreCompileInputs.cache
+D:\api\Autonomus\obj\Debug\net8.0\Autonomus.MvcApplicationPartsAssemblyInfo.cs
+D:\api\Autonomus\obj\Debug\net8.0\Autonomus.MvcApplicationPartsAssemblyInfo.cache
+D:\api\Autonomus\obj\Debug\net8.0\Autonomus.dll
+D:\api\Autonomus\obj\Debug\net8.0\refint\Autonomus.dll
+D:\api\Autonomus\obj\Debug\net8.0\Autonomus.pdb
+D:\api\Autonomus\bin\Debug\net8.0\appsettings.Development.json
+D:\api\Autonomus\bin\Debug\net8.0\appsettings.json
+D:\api\Autonomus\bin\Debug\net8.0\Autonomus.exe
+D:\api\Autonomus\bin\Debug\net8.0\Autonomus.deps.json
+D:\api\Autonomus\bin\Debug\net8.0\Autonomus.runtimeconfig.json
+D:\api\Autonomus\bin\Debug\net8.0\Autonomus.dll
+D:\api\Autonomus\bin\Debug\net8.0\Autonomus.pdb
+D:\api\Autonomus\bin\Debug\net8.0\Azure.Core.dll
+D:\api\Autonomus\bin\Debug\net8.0\Azure.Identity.dll
+D:\api\Autonomus\bin\Debug\net8.0\Humanizer.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\api\Autonomus\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\api\Autonomus\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\api\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\api\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\api\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.ClientModel.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.CodeDom.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Memory.Data.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Text.Json.dll
+D:\api\Autonomus\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\api\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\api\Autonomus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\api\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\api\Autonomus\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\api\Autonomus\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\api\Autonomus\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\api\Autonomus\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\api\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\api\Autonomus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\api\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\api\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\api\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\api\Autonomus\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\api\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\api\Autonomus\obj\Debug\net8.0\staticwebassets.build.json
+D:\api\Autonomus\obj\Debug\net8.0\staticwebassets.development.json
+D:\api\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.Autonomus.Microsoft.AspNetCore.StaticWebAssets.props
+D:\api\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.build.Autonomus.props
+D:\api\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Autonomus.props
+D:\api\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Autonomus.props
+D:\api\Autonomus\obj\Debug\net8.0\staticwebassets.pack.json
+D:\api\Autonomus\obj\Debug\net8.0\scopedcss\bundle\Autonomus.styles.css
+D:\api\Autonomus\obj\Debug\net8.0\Autonomus.csproj.Up2Date
+D:\api\Autonomus\obj\Debug\net8.0\Autonomus.genruntimeconfig.cache
+D:\api\Autonomus\obj\Debug\net8.0\ref\Autonomus.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\appsettings.Development.json
+D:\TCC\api\Autonomus\bin\Debug\net8.0\appsettings.json
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Autonomus.exe
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Autonomus.deps.json
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Autonomus.runtimeconfig.json
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Autonomus.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Autonomus.pdb
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Azure.Core.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Azure.Identity.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Humanizer.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.ClientModel.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.CodeDom.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Memory.Data.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Text.Json.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\TCC\api\Autonomus\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TCC\api\Autonomus\obj\Debug\net8.0\Autonomus.csproj.AssemblyReference.cache
+D:\TCC\api\Autonomus\obj\Debug\net8.0\Autonomus.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCC\api\Autonomus\obj\Debug\net8.0\Autonomus.AssemblyInfoInputs.cache
+D:\TCC\api\Autonomus\obj\Debug\net8.0\Autonomus.AssemblyInfo.cs
+D:\TCC\api\Autonomus\obj\Debug\net8.0\Autonomus.csproj.CoreCompileInputs.cache
+D:\TCC\api\Autonomus\obj\Debug\net8.0\Autonomus.MvcApplicationPartsAssemblyInfo.cs
+D:\TCC\api\Autonomus\obj\Debug\net8.0\Autonomus.MvcApplicationPartsAssemblyInfo.cache
+D:\TCC\api\Autonomus\obj\Debug\net8.0\staticwebassets.build.json
+D:\TCC\api\Autonomus\obj\Debug\net8.0\staticwebassets.development.json
+D:\TCC\api\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.Autonomus.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TCC\api\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.build.Autonomus.props
+D:\TCC\api\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Autonomus.props
+D:\TCC\api\Autonomus\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Autonomus.props
+D:\TCC\api\Autonomus\obj\Debug\net8.0\staticwebassets.pack.json
+D:\TCC\api\Autonomus\obj\Debug\net8.0\scopedcss\bundle\Autonomus.styles.css
+D:\TCC\api\Autonomus\obj\Debug\net8.0\Autonomus.csproj.Up2Date
+D:\TCC\api\Autonomus\obj\Debug\net8.0\Autonomus.dll
+D:\TCC\api\Autonomus\obj\Debug\net8.0\refint\Autonomus.dll
+D:\TCC\api\Autonomus\obj\Debug\net8.0\Autonomus.pdb
+D:\TCC\api\Autonomus\obj\Debug\net8.0\Autonomus.genruntimeconfig.cache
+D:\TCC\api\Autonomus\obj\Debug\net8.0\ref\Autonomus.dll
